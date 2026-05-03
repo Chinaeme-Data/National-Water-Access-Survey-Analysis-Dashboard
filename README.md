@@ -1,11 +1,11 @@
-## Project Title
+# Project Title
 National Water Access Survey Analysis Dashboard
 
 ## National-Water-Access-Survey-Analysis-Dashboard
 This project analyzes water access data across rural and urban regions of Maji Ndogo to identify gaps in basic water availability. It uses Power BI to visualize trends and highlight areas that need infrastructure improvements and the cost of the improvements. The dashboard is designed for policymakers and NGOs.
 
 ## Preview
-![Power BI Dashboard](dashboard.png)
+![Dashboard Screenshot](link-to-image)
 
 ## Key Features:
 - Tracks basic vs below-basic water access
